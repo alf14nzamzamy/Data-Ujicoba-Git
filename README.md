@@ -1,5 +1,5 @@
 # halo-dunia
 Reposit Halo Dunia untuk tutorial Git.
-ini adalah sebuah contoh reposit untuk tutpr git
+ini adalah sebuah contoh reposit untuk tutor git
 
-repositini dituis secara bertahap
+reposit ini ditulis secara bertahap
